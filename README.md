@@ -1,2 +1,2 @@
 # Food_root_DTMTS
-Creating MVP of bootstrap-driven web application about for pre-ordering in the cafe of our university
+Creating MVP of Bootstrap + Django based web application for pre-ordering in our university's cafe
